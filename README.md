@@ -32,6 +32,6 @@ MINIMAX Algorithm
 •	The Minimax is least effective in success rate but quicker than other algorithms like Expectimax and Alpha-Beta pruning which are much more efficient than the Minimax.
 
 •	Time complexity of Minimax is O(n^d). 
-o	n - Number of Moves in Game.
-o	d – Depth of Search in the Game.
+n - Number of Moves in Game.
+d – Depth of Search in the Game.
 
